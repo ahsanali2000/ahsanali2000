@@ -1,4 +1,5 @@
-### Hi there 👋
+# A software engineer who have explored many fields, now, diving deep into data science.
+
 
 <!--
 **ahsanali2000/ahsanali2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanali2000&show_icons=true&theme=algolia&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanali2000&show_icons=true&theme=algolia&count_private=true) -->
