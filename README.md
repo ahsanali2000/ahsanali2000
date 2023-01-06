@@ -1,4 +1,4 @@
-# A software engineer who have explored many fields, now, diving deep into data science.
+# A software engineer after exploring many fields diving deep into data science.
 
 
 <!--
