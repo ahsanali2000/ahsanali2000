@@ -7,14 +7,13 @@ ___
 
 I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automation**, **Data Science**, and **full-stack development**. Currently pursuing my **Master's in Applied Computer Science** at **Georg-August-Universität, Göttingen**.
 
-<hr>
 
 
 ## 🌐 Kontakt / Connect with Me
 - **Email**: [mr.ahsanali2000@gmail.com](mailto:mr.ahsanali2000@gmail.com)
 - **LinkedIn**: [Ahsan Ali](https://www.linkedin.com/in/ahsan-ali)
 
-<hr>
+
 
 ## 💻 Fähigkeiten / Skills
 ### Programmiersprachen / Languages
@@ -29,7 +28,7 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automat
 ### Datenbanken / Databases
 - **MySQL**, **PostgreSQL**, **MongoDB**
 
-<hr>
+
 
 
 ## 📊 Aktuelle Berufserfahrung / Current Experience
@@ -40,6 +39,12 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automat
 - Entwickelte ein System zur Extraktion von Daten aus **PowerBI**, um die Identifizierung von Materialien zu optimieren und die Erstellung von Preisdokumenten zu automatisieren. Diese Lösung reduzierte den manuellen Aufwand um **50 %** und sorgte für genaue, aktuelle Preisangaben.
 - Automatisierte wichtige betriebliche Arbeitsabläufe, was die Effizienz steigerte und manuelle Aufgaben um **40 %** reduzierte.
 - Enge Zusammenarbeit mit dem Vertriebsteam zur Umsetzung technologiegestützter Strategien, die die Datenzugänglichkeit und Lead-Management-Tools verbesserten, was zu einer **25-prozentigen Steigerung** der Verkaufsabschlüsse führte.
+  
+<hr>
+
+- Developed a system for extracting data from **PowerBI** to optimize material identification and automate the creation of pricing documents. This solution reduced manual effort by **50%** and ensured accurate, up-to-date pricing information.
+- Automated key operational workflows, increasing efficiency and reducing manual tasks by **40%**.
+- Collaborated closely with the sales team to implement technology-driven strategies that improved data accessibility and lead management tools, resulting in a **25% increase** in sales closures.
 
 ---
 
