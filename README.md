@@ -1,6 +1,6 @@
 # Willkommen auf meinem GitHub-Profil / Welcome to My GitHub Profile 👋
 
-![Profile Background](./587777.png)
+![Profile Background](./5877770.png)
 
 
 ## 👨‍💻 Über mich / About Me
