@@ -46,7 +46,7 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automat
 - Automated key operational workflows, increasing efficiency and reducing manual tasks by **40%**.
 - Collaborated closely with the sales team to implement technology-driven strategies that improved data accessibility and lead management tools, resulting in a **25% increase** in sales closures.
 
----
+
 
 ### 📡 Research Assistant @ Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)
 **May 2023 – Present, Göttingen, Germany (Hybrid)**
@@ -54,7 +54,11 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automat
 - Verbesserung einer medizinischen Plattform durch **Wissensgraphen** und einen **LLM-basierten Chatbot** (feinabgestimmter **LLAMA2-chat**), was zu einer **30%igen Verbesserung** der Benutzeranfrage-Lösungen führte.
 - Entwicklung spezialisierter **Web-Crawler**, die die Erfassung von Forschungsdaten um **70 %** steigerten.
 
----
+<hr>
+
+- Improved a medical platform by integrating **knowledge graphs** and an **LLM-based chatbot** (fine-tuned **LLAMA2-chat**), leading to a **30% improvement** in resolving user queries.
+- Developed specialized **web crawlers**, increasing the collection of research data by **70%**.
+
 
 ### 🎓 Student Tutor @ University of Göttingen
 **Nov 2023 – Mar 2024, Göttingen, Germany (On-site)**
@@ -62,6 +66,9 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automat
 - Unterstützung im Kurs **Deep Learning für Computer Vision** durch die Durchführung praktischer Übungen und Betreuung von **20 Studierenden**, was zu einer **15-prozentigen Verbesserung** der studentischen Leistung führte.
 
 <hr>
+
+- Supported the **Deep Learning for Computer Vision** course by conducting practical exercises and mentoring **20 students**, resulting in a **15% improvement** in student performance.
+
 
 
 Vielen Dank für Ihren Besuch auf meinem Profil!  
