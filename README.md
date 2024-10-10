@@ -1,17 +1,18 @@
 # Willkommen auf meinem GitHub-Profil / Welcome to My GitHub Profile 👋
 
 ## 👨‍💻 Über mich / About Me
-Ich bin **Ahsan Ali**, ein engagierter Softwareentwickler mit Fachwissen in den Bereichen **Künstliche Intelligenz (KI)**, **maschinelles Lernen (ML)** und **Full-Stack-Entwicklung**. Derzeit absolviere ich meinen **Master in Angewandter Informatik** an der **Georg-August-Universität Göttingen**.  
-—  
-I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **AI**, **machine learning**, and **full-stack development**. Currently pursuing my **Master's in Applied Computer Science** at **Georg-August-Universität, Göttingen**.
+Ich bin **Ahsan Ali**, ein engagierter **Softwareentwickler** mit Fachwissen in den Bereichen **Automatisierung**, **Datenwissenschaft** und **Full-Stack-Entwicklung**. Derzeit absolviere ich meinen **Master in Angewandter Informatik** an der **Georg-August-Universität Göttingen**.
+—------------------------- 
+I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automation**, **Data Science**, and **full-stack development**. Currently pursuing my **Master's in Applied Computer Science** at **Georg-August-Universität, Göttingen**.
 
----
+<hr>
+
 
 ## 🌐 Kontakt / Connect with Me
 - **Email**: [mr.ahsanali2000@gmail.com](mailto:mr.ahsanali2000@gmail.com)
 - **LinkedIn**: [Ahsan Ali](https://www.linkedin.com/in/ahsan-ali)
 
----
+<hr>
 
 ## 💻 Fähigkeiten / Skills
 ### Programmiersprachen / Languages
@@ -26,7 +27,8 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **AI**, *
 ### Datenbanken / Databases
 - **MySQL**, **PostgreSQL**, **MongoDB**
 
----
+<hr>
+
 
 ## 📊 Aktuelle Berufserfahrung / Current Experience
 
@@ -52,7 +54,8 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **AI**, *
 
 - Unterstützung im Kurs **Deep Learning für Computer Vision** durch die Durchführung praktischer Übungen und Betreuung von **20 Studierenden**, was zu einer **15-prozentigen Verbesserung** der studentischen Leistung führte.
 
----
+<hr>
+
 
 Vielen Dank für Ihren Besuch auf meinem Profil!  
 Thank you for visiting my profile!
