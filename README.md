@@ -37,6 +37,7 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automat
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Data Science:
+![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-00599C?style=for-the-badge&logo=ai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -47,7 +48,6 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automat
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-00599C?style=for-the-badge&logo=ai)
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
