@@ -3,7 +3,7 @@
 ## 👨‍💻 Über mich / About Me
 Ich bin **Ahsan Ali**, ein engagierter **Softwareentwickler** mit Fachwissen in den Bereichen **Automatisierung**, **Datenwissenschaft** und **Full-Stack-Entwicklung**. Derzeit absolviere ich meinen **Master in Angewandter Informatik** an der **Georg-August-Universität Göttingen**.
 
-—-------------------------—-------------------------—------------------------------------
+—-------------------------—-------------------------—-----------------------------------
 
 I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automation**, **Data Science**, and **full-stack development**. Currently pursuing my **Master's in Applied Computer Science** at **Georg-August-Universität, Göttingen**.
 
