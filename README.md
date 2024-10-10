@@ -1,49 +1,58 @@
+# Willkommen auf meinem GitHub-Profil / Welcome to My GitHub Profile 👋
 
-<!--
-**ahsanali2000/ahsanali2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Über mich / About Me
+Ich bin **Ahsan Ali**, ein engagierter Softwareentwickler mit Fachwissen in den Bereichen **Künstliche Intelligenz (KI)**, **maschinelles Lernen (ML)** und **Full-Stack-Entwicklung**. Derzeit absolviere ich meinen **Master in Angewandter Informatik** an der **Georg-August-Universität Göttingen**.  
+—  
+I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **AI**, **machine learning**, and **full-stack development**. Currently pursuing my **Master's in Applied Computer Science** at **Georg-August-Universität, Göttingen**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Kontakt / Connect with Me
+- **Email**: [mr.ahsanali2000@gmail.com](mailto:mr.ahsanali2000@gmail.com)
+- **LinkedIn**: [Ahsan Ali](https://www.linkedin.com/in/ahsan-ali)
 
+---
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanali2000&show_icons=true&theme=algolia&count_private=true) -->
-# Welcome to My GitHub Profile
+## 💻 Fähigkeiten / Skills
+### Programmiersprachen / Languages
+- **Python**, **Java**, **C++**, **HTML/CSS/JavaScript**
 
-I'm Ahsan Ali, a dedicated Software Engineer with expertise in AI, machine learning, and full-stack development. Currently pursuing my Master's in Applied Computer Science at Georg-August-Universität, Göttingen.
+### Frameworks
+- **TensorFlow**, **PyTorch**, **Django**, **VueJS**
 
-**Connect with me:**
-- Email: [mr.ahsanali2000@gmail.com](mailto:mr.ahsanali2000@gmail.com)
-- LinkedIn: [Ahsan Ali](https://www.linkedin.com/in/itsahsanali)
+### Tools
+- **Docker**, **Git**, **AWS**, **Azure**
 
-**Skills:**
-- **Languages:** Python, Java, C++, HTML/CSS/JavaScript
-- **Frameworks:** TensorFlow, PyTorch, Django, VueJS
-- **Tools:** Docker, Git, AWS, Azure
-- **Databases:** MySQL, PostgreSQL, MongoDB
+### Datenbanken / Databases
+- **MySQL**, **PostgreSQL**, **MongoDB**
 
-**Current Experience:**
+---
 
-### Research Assistant @ Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)
-*May 2023 – Present, Göttingen, Germany*
-- Enhanced a medical platform using **knowledge graphs** and an **LLM-based chatbot** (Finetuned LLAMA2-chat), achieving a 30% improvement in user query resolution.
-- Developed **specialized web crawlers**, boosting research data acquisition by 70%.
+## 📊 Aktuelle Berufserfahrung / Current Experience
 
-**Previous Experience:**
-- **Software Engineer @ Huawei GSC**: Led a team to develop automation tools, reducing manual effort by 40%.
-- **Full Stack Developer @ Tikito Pvt Ltd**: Developed a platform for QR code-generated event ticket sales.
+### 🖥️ Software Engineer @ SaniSure (Teilzeit / Part-time)
+**Aug 2024 – Present, Göttingen, Germany (Hybrid)**
 
-**Projects:**
-- **BERT-Based Multi-task Classifier**: Implemented a custom BERT model for paraphrase detection, semantic textual similarity, and sentiment analysis.
-- **Akaunting - Open Source Accounting System**: Extended an open-source app with a double-entry bookkeeping module and sales forecasting.
-- **Ahabot - Knowledge Base Generator Chatbot**: Created a chatbot with self-attention-based knowledge aggregation and BERT embeddings.
+- Entwickelte ein System zur Extraktion von Daten aus **PowerBI**, um die Identifizierung von Materialien zu optimieren und die Erstellung von Preisdokumenten zu automatisieren. Diese Lösung reduzierte den manuellen Aufwand um **50 %** und sorgte für genaue, aktuelle Preisangaben.
+- Automatisierte wichtige betriebliche Arbeitsabläufe, was die Effizienz steigerte und manuelle Aufgaben um **40 %** reduzierte.
+- Enge Zusammenarbeit mit dem Vertriebsteam zur Umsetzung technologiegestützter Strategien, die die Datenzugänglichkeit und Lead-Management-Tools verbesserten, was zu einer **25-prozentigen Steigerung** der Verkaufsabschlüsse führte.
 
-Feel free to explore my repositories and reach out for collaboration!
+---
+
+### 📡 Research Assistant @ Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)
+**May 2023 – Present, Göttingen, Germany (Hybrid)**
+
+- Verbesserung einer medizinischen Plattform durch **Wissensgraphen** und einen **LLM-basierten Chatbot** (feinabgestimmter **LLAMA2-chat**), was zu einer **30%igen Verbesserung** der Benutzeranfrage-Lösungen führte.
+- Entwicklung spezialisierter **Web-Crawler**, die die Erfassung von Forschungsdaten um **70 %** steigerten.
+
+---
+
+### 🎓 Student Tutor @ University of Göttingen
+**Nov 2023 – Mar 2024, Göttingen, Germany (On-site)**
+
+- Unterstützung im Kurs **Deep Learning für Computer Vision** durch die Durchführung praktischer Übungen und Betreuung von **20 Studierenden**, was zu einer **15-prozentigen Verbesserung** der studentischen Leistung führte.
+
+---
+
+Vielen Dank für Ihren Besuch auf meinem Profil!  
+Thank you for visiting my profile!
