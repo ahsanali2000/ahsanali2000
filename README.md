@@ -1,5 +1,8 @@
 # Willkommen auf meinem GitHub-Profil / Welcome to My GitHub Profile 👋
 
+![Profile Background](./587777.png)
+
+
 ## 👨‍💻 Über mich / About Me
 Ich bin **Ahsan Ali**, ein engagierter **Softwareentwickler** mit Fachwissen in den Bereichen **Automatisierung**, **Datenwissenschaft** und **Full-Stack-Entwicklung**. Derzeit absolviere ich meinen **Master in Angewandter Informatik** an der **Georg-August-Universität Göttingen**.
 
