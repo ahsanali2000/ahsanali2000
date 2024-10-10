@@ -70,6 +70,19 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automat
 - Supported the **Deep Learning for Computer Vision** course by conducting practical exercises and mentoring **20 students**, resulting in a **15% improvement** in student performance.
 
 
+### 🖥️ Software Engineer @ Huawei GSC Islamabad
+**Aug 2022 – Feb 2023, Islamabad, Pakistan (On-site)**
+
+- Orchestrierte ein Team von 5 Mitgliedern zur Entwicklung von Automatisierungstools, die operative Arbeitsabläufe in der Lieferabteilung optimierten und den manuellen Aufwand um 40 % reduzierten.
+- Führte eine tiefgehende Analyse von Kundendaten zur Vorhersage von Abwanderungsraten durch, indem Korrelationstechniken eingesetzt wurden, um 25 Schlüsselfaktoren aus ursprünglich 114 Variablen zu identifizieren. Dies verbesserte die Kundenbindungsstrategien und reduzierte die Abwanderung um 20 %.
+
+<hr>
+
+- Orchestrated a team of 5 members to develop automation tools, streamlining operational workflows within the delivery operation department, resulting in a 40% reduction in manual effort.
+- Conducted in-depth analysis of customer data to predict churn rates, employing correlational analysis techniques to identify 25 key variables from  an initial of 114 variables, thereby enhancing customer retention strategies and reducing churn by 20%.
+
+
+
 
 Vielen Dank für Ihren Besuch auf meinem Profil!  
 Thank you for visiting my profile!
