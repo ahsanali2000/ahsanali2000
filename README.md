@@ -85,37 +85,4 @@ I'm **Ahsan Ali**, a dedicated **Software Engineer** with expertise in **Automat
 
 
 
-
-## 📊 Current Experience
-
-### 🖥️ Software Engineer @ SaniSure (Teilzeit / Part-time)
-**Aug 2024 – Present, Göttingen, Germany (Hybrid)**
-
-- Developed a system for extracting data from **PowerBI** to optimize material identification and automate the creation of pricing documents. This solution reduced manual effort by **50%** and ensured accurate, up-to-date pricing information.
-- Automated key operational workflows, increasing efficiency and reducing manual tasks by **40%**.
-- Collaborated closely with the sales team to implement technology-driven strategies that improved data accessibility and lead management tools, resulting in a **25% increase** in sales closures.
-
-
-
-### 📡 Research Assistant @ Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)
-**May 2023 – Present, Göttingen, Germany (Hybrid)**
-
-- Improved a medical platform by integrating **knowledge graphs** and an **LLM-based chatbot** (fine-tuned **LLAMA2-chat**), leading to a **30% improvement** in resolving user queries.
-- Developed specialized **web crawlers**, increasing the collection of research data by **70%**.
-
-
-### 🎓 Student Tutor @ University of Göttingen
-**Nov 2023 – Mar 2024, Göttingen, Germany (On-site)**
-
-- Supported the **Deep Learning for Computer Vision** course by conducting practical exercises and mentoring **20 students**, resulting in a **15% improvement** in student performance.
-
-
-### 🖥️ Software Engineer @ Huawei GSC Islamabad
-**Aug 2022 – Feb 2023, Islamabad, Pakistan (On-site)**
-
-- Orchestrated a team of 5 members to develop automation tools, streamlining operational workflows within the delivery operation department, resulting in a 40% reduction in manual effort.
-- Conducted in-depth analysis of customer data to predict churn rates, employing correlational analysis techniques to identify 25 key variables from  an initial of 114 variables, thereby enhancing customer retention strategies and reducing churn by 20%.
-
-
-
 Thank you for visiting my profile!
